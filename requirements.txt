@@ -1,0 +1,5 @@
+langchain[llms]
+langchain-ollama
+langchain-community
+tree_sitter==0.21.3
+tree_sitter_languages
